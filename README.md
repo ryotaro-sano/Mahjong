@@ -1,2 +1,2 @@
 # Mahjong
-# Mリーグの分析Notebookをアップしていきます
+Mリーグの分析Notebookをアップしていきます
